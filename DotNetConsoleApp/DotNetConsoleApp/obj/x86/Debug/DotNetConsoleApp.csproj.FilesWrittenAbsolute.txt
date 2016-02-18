@@ -1,0 +1,10 @@
+/Users/ntk1/Projects/DotNetConsoleApp/DotNetConsoleApp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ntk1/Projects/DotNetConsoleApp/DotNetConsoleApp/bin/Debug/DotNetConsoleApp.exe.mdb
+/Users/ntk1/Projects/DotNetConsoleApp/DotNetConsoleApp/bin/Debug/DotNetConsoleApp.exe
+/Users/ntk1/Projects/DotNetConsoleApp/DotNetConsoleApp/obj/x86/Debug/DotNetConsoleApp.exe
+/Users/ntk1/Projects/DotNetConsoleApp/DotNetConsoleApp/obj/x86/Debug/DotNetConsoleApp.exe.mdb
+/Users/ntk1/Desktop/Works/my-ivw/DotNetConsoleApp/DotNetConsoleApp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ntk1/Desktop/Works/my-ivw/DotNetConsoleApp/DotNetConsoleApp/obj/x86/Debug/DotNetConsoleApp.exe
+/Users/ntk1/Desktop/Works/my-ivw/DotNetConsoleApp/DotNetConsoleApp/obj/x86/Debug/DotNetConsoleApp.exe.mdb
+/Users/ntk1/Desktop/Works/my-ivw/DotNetConsoleApp/DotNetConsoleApp/bin/Debug/DotNetConsoleApp.exe.mdb
+/Users/ntk1/Desktop/Works/my-ivw/DotNetConsoleApp/DotNetConsoleApp/bin/Debug/DotNetConsoleApp.exe

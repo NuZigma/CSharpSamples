@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="DotNetConsoleApp/DotNetConsoleApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNetConsoleApp/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="DotNetConsoleApp/Program.cs" Line="25" Column="4" />
+      <File FileName="DotNetConsoleApp/Sample/Palindrome.cs" Line="3" Column="1" />
+      <File FileName="DotNetConsoleApp/Sample/MatrixSample.cs" Line="3" Column="1" />
+      <File FileName="DotNetConsoleApp/Sample/WordCount.cs" Line="16" Column="31" />
+      <File FileName="DotNetConsoleApp/Properties/AssemblyInfo.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

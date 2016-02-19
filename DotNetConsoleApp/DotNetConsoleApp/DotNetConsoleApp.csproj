@@ -39,6 +39,8 @@
     <Compile Include="Sample\Palindrome.cs" />
     <Compile Include="Sample\WordCount.cs" />
     <Compile Include="Sample\Fibonacci.cs" />
+    <Compile Include="Sample\Anagrams.cs" />
+    <Compile Include="Sample\TwoSum.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

@@ -41,6 +41,7 @@
     <Compile Include="Sample\Fibonacci.cs" />
     <Compile Include="Sample\Anagrams.cs" />
     <Compile Include="Sample\TwoSum.cs" />
+    <Compile Include="Sample\TheFrog.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

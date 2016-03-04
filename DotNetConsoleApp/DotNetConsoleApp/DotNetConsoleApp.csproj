@@ -42,6 +42,8 @@
     <Compile Include="Sample\Anagrams.cs" />
     <Compile Include="Sample\TwoSum.cs" />
     <Compile Include="Sample\TheFrog.cs" />
+    <Compile Include="Sample\ReplaceChars.cs" />
+    <Compile Include="Sample\MatrixBorder.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

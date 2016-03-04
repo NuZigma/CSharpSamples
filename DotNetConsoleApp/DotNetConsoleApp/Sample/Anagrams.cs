@@ -40,7 +40,7 @@ namespace DotNetConsoleApp
 				return a.OrderBy(x => x).SequenceEqual(b.OrderBy(x => x));
 		}
 
-		public static void Main(string[] args)
+		public static void Test()
 		{
 			Console.WriteLine(AreStringsAnagrams("momdad", "dadmom"));
 		}

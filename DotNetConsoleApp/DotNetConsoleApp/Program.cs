@@ -27,7 +27,12 @@ namespace DotNetConsoleApp
 
 			//Fibonacci.Test ();
 
-			Palindrome.Test ();
+			//Palindrome.Test ();
+			//ReplaceChars.Test();
+
+			MatrixBorder.Test ();
+
+			Console.Read ();
 		}
 	}
 

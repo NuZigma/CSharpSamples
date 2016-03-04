@@ -1,12 +1,17 @@
 ﻿<Properties StartupItem="DotNetConsoleApp/DotNetConsoleApp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DotNetConsoleApp/Properties/AssemblyInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNetConsoleApp/Sample/ReplaceChars.cs">
     <Files>
-      <File FileName="DotNetConsoleApp/Program.cs" Line="25" Column="4" />
-      <File FileName="DotNetConsoleApp/Sample/Palindrome.cs" Line="3" Column="1" />
+      <File FileName="DotNetConsoleApp/Program.cs" Line="19" Column="22" />
+      <File FileName="DotNetConsoleApp/Sample/Palindrome.cs" Line="12" Column="38" />
       <File FileName="DotNetConsoleApp/Sample/MatrixSample.cs" Line="3" Column="1" />
       <File FileName="DotNetConsoleApp/Sample/WordCount.cs" Line="16" Column="31" />
-      <File FileName="DotNetConsoleApp/Properties/AssemblyInfo.cs" Line="9" Column="1" />
+      <File FileName="DotNetConsoleApp/Properties/AssemblyInfo.cs" Line="37" Column="1" />
+      <File FileName="DotNetConsoleApp/Sample/Fibonacci.cs" Line="8" Column="3" />
+      <File FileName="DotNetConsoleApp/Sample/Anagrams.cs" Line="46" Column="4" />
+      <File FileName="DotNetConsoleApp/Sample/TwoSum.cs" Line="36" Column="4" />
+      <File FileName="DotNetConsoleApp/Sample/TheFrog.cs" Line="60" Column="15" />
+      <File FileName="DotNetConsoleApp/Sample/ReplaceChars.cs" Line="56" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
